@@ -610,11 +610,11 @@
         "typescript": "^3.8.3",
         "vsce": "^1.74.0",
         "vscode": "^1.1.36",
-        "vscode-azureextensiondev": "0.1.8",
+        "vscode-azureextensiondev": "0.10.4",
         "vscode-debugadapter-testsupport": "1.40.2",
         "vscode-extension-telemetry": "^0.0.18",
         "webpack": "4.29.6",
-        "webpack-cli": "^3.3.11"
+        "webpack-cli": "^3.3.12"
     },
     "dependencies": {
         "@types/xml": "^1.0.4",
